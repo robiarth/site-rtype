@@ -68,7 +68,7 @@ const Cta = () => {
         <CtaDescription>
           Faites équipe avec vos amis et affrontez des adversaires sur des champs de bataille épiques dans ce jeu de tir à la première personne gratuit.
         </CtaDescription>
-        <CtaButton href="/Assets/video.mp4" download>Download</CtaButton>
+        <CtaButton href="/Assets/RacoonInstaller.exe" download>Download</CtaButton>
       </ContentContainer>
     </CtaContainer>
   );
